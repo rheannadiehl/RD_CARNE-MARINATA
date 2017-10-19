@@ -6,37 +6,72 @@
 	.st0{fill:url(#SVGID_1_);stroke:#B3B4B4;stroke-width:0.6575;stroke-miterlimit:10;}
 	.st1{fill:url(#SVGID_2_);stroke:url(#SVGID_3_);stroke-width:1.315;stroke-miterlimit:10;}
 	.st2{fill:none;}
-	.st3{fill:#992220;}
-	.st4{font-family:'AbrilFatface-Regular';}
-	.st5{font-size:20px;}
-	.st6{fill:none;stroke:#ADADAD;stroke-width:0.9602;stroke-miterlimit:10;}
+	.st3{enable-background:new    ;}
+	.st4{fill:#992220;}
+	.st5{fill:none;stroke:#ADADAD;stroke-width:0.9602;stroke-miterlimit:10;}
 </style>
 <g id="Layer_1_1_">
 </g>
 <g id="Isolation_Mode">
 	<g>
 		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="173.1319" y1="3.0351" x2="154.5349" y2="108.5039" gradientTransform="matrix(1 0 0 -1 0 130)">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="173.1319" y1="608.9649" x2="154.5349" y2="503.4961" gradientTransform="matrix(1 0 0 1 0 -482)">
 			<stop  offset="0" style="stop-color:#FFFFFF"/>
 			<stop  offset="1" style="stop-color:#CCCCCB"/>
 		</linearGradient>
 		<ellipse class="st0" cx="162.1" cy="64.4" rx="161.7" ry="64.1"/>
 		
-			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="170.9118" y1="18.5256" x2="153.2882" y2="118.4744" gradientTransform="matrix(1 0 0 -1 0 130)">
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="170.9118" y1="593.4744" x2="153.2882" y2="493.5256" gradientTransform="matrix(1 0 0 1 0 -482)">
 			<stop  offset="0" style="stop-color:#FFFFFF"/>
 			<stop  offset="1" style="stop-color:#CCCCCB"/>
 		</linearGradient>
 		
-			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="153.174" y1="119.1219" x2="171.026" y2="17.8781" gradientTransform="matrix(1 0 0 -1 0 130)">
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="153.174" y1="492.8781" x2="171.026" y2="594.1219" gradientTransform="matrix(1 0 0 1 0 -482)">
 			<stop  offset="0" style="stop-color:#FFFFFF"/>
 			<stop  offset="1" style="stop-color:#808080"/>
 		</linearGradient>
 		<ellipse class="st1" cx="162.1" cy="61.5" rx="138.1" ry="45.4"/>
 		<rect x="70.7" y="32.9" class="st2" width="86" height="29.6"/>
-		<text transform="matrix(1 0 0 1 70.6836 47.1484)" class="st3 st4 st5">CARNE</text>
-		<line class="st6" x1="154.8" y1="32.7" x2="130.8" y2="91.7"/>
+		<g class="st3">
+			<path class="st4" d="M78.7,33.3c-2.1,0-3.1,2-3.1,6v1.6c0,1.9,0.3,3.4,0.8,4.5c0.5,1.1,1.4,1.6,2.4,1.6c1.5,0,2.8-1.4,4-4.3h0.4
+				l-0.1,4.5h-0.2c-0.1-0.1-0.2-0.2-0.2-0.3c-0.1-0.1-0.2-0.1-0.3-0.1c-0.1,0-0.6,0.1-1.4,0.3c-0.8,0.2-1.7,0.3-2.6,0.3
+				c-2.2,0-3.9-0.6-5.1-1.8c-1.2-1.2-1.8-2.9-1.8-5.3s0.6-4.2,1.9-5.5s2.9-1.9,5-1.9c0.8,0,1.6,0.1,2.4,0.3c0.8,0.2,1.2,0.3,1.4,0.3
+				s0.2,0,0.3-0.1c0.1-0.1,0.1-0.2,0.2-0.3h0.2l0.2,4.3h-0.4c-0.6-1.3-1.2-2.4-1.9-3.1C80.2,33.7,79.5,33.3,78.7,33.3z"/>
+			<path class="st4" d="M92.7,46.8l-1.5-4.3h-4l-1.5,4.3h1.5v0.4h-3.1v-0.4h0.9L90.2,33h1.6l5,13.7h0.9v0.4h-6.5v-0.4H92.7z
+				 M89.4,36.8L87.5,42h3.6L89.4,36.8z"/>
+			<path class="st4" d="M104.5,40.1h-1.1v6.7h1.3v0.4h-6.5v-0.4h1.3V33.5h-1.3v-0.4h6c1.7,0,3,0.1,3.7,0.3c0.7,0.2,1.2,0.4,1.5,0.7
+				c0.6,0.5,1,1.3,1,2.5c0,1.1-0.3,1.9-0.8,2.4s-1.4,0.8-2.6,0.9v0.1c1.1,0.1,1.8,0.5,2.3,1c0.4,0.5,0.6,1.3,0.6,2.5v1.1
+				c0,0.7,0,1.2,0.1,1.4s0.2,0.4,0.5,0.4c0.2,0,0.4-0.1,0.6-0.3c0.1-0.2,0.3-0.7,0.4-1.4l0.3,0c-0.1,1.1-0.4,1.9-0.8,2.3
+				s-1.1,0.6-2.2,0.6s-1.9-0.3-2.3-0.8c-0.5-0.5-0.7-1.5-0.7-2.9v-1.5c0-0.7-0.1-1.3-0.3-1.6S105,40.1,104.5,40.1z M103.5,33.5v6.2
+				h0.6c0.8,0,1.3-0.2,1.7-0.7c0.4-0.5,0.5-1.2,0.5-2.3v-0.6c0-1.1-0.2-1.8-0.5-2.1c-0.4-0.3-0.9-0.5-1.7-0.5H103.5z"/>
+			<path class="st4" d="M124.1,33.5v13.6h-2.8l-6.9-12.9v12.6h1.1v0.4h-2.7v-0.4h1.1V33.5h-1.1v-0.4h5.5l5.2,10v-9.7h-1.1v-0.4h2.7
+				v0.4H124.1z"/>
+			<path class="st4" d="M126.1,33.1h10.4l0.2,4h-0.4c-0.6-1.3-1.1-2.3-1.8-2.8s-1.5-0.8-2.7-0.8h-0.7v6.2h0.7c0.6,0,1.2-0.2,1.6-0.7
+				s0.7-1.1,0.9-1.9h0.3v5.9h-0.3c-0.2-1-0.6-1.7-1-2.1s-1-0.6-1.7-0.6h-0.5v6.4h0.8c1.2,0,2.3-0.4,3.1-1.1c0.9-0.7,1.4-1.7,1.8-2.8
+				h0.4l-0.2,4.4h-11v-0.4h1.2V33.6h-1.2V33.1z"/>
+		</g>
+		<line class="st5" x1="154.8" y1="32.7" x2="130.8" y2="91.7"/>
 		<rect x="151.5" y="57" class="st2" width="129.6" height="36.4"/>
-		<text transform="matrix(1 0 0 1 151.5157 71.2832)" class="st4 st5">MARINATA</text>
+		<g class="st3">
+			<path d="M162.5,57.3h5.3v0.4h-1.1v13.2h1.1v0.4h-6.1v-0.4h1.1V58.4h-0.1l-3,12.9h-2.5l-3.5-12.9h-0.1v12.6h1.1v0.4H152v-0.4h1.1
+				V57.7H152v-0.4h5.4l2.7,10.3L162.5,57.3z"/>
+			<path d="M177,70.9l-1.5-4.3h-4l-1.5,4.3h1.5v0.4h-3.1v-0.4h0.9l5.1-13.7h1.6l5,13.7h0.9v0.4h-6.5v-0.4H177z M173.6,60.9l-1.9,5.2
+				h3.6L173.6,60.9z"/>
+			<path d="M188.8,64.2h-1.1v6.7h1.3v0.4h-6.5v-0.4h1.3V57.7h-1.3v-0.4h6c1.7,0,3,0.1,3.7,0.3c0.7,0.2,1.2,0.4,1.5,0.7
+				c0.6,0.5,1,1.3,1,2.5c0,1.1-0.3,1.9-0.8,2.4c-0.6,0.5-1.4,0.8-2.6,0.9V64c1.1,0.1,1.8,0.5,2.3,1c0.4,0.5,0.6,1.3,0.6,2.5v1.1
+				c0,0.7,0,1.2,0.1,1.4s0.2,0.4,0.5,0.4c0.2,0,0.4-0.1,0.6-0.3c0.1-0.2,0.3-0.7,0.4-1.4l0.3,0c-0.1,1.1-0.4,1.9-0.8,2.3
+				c-0.4,0.4-1.1,0.6-2.2,0.6c-1.1,0-1.9-0.3-2.3-0.8c-0.5-0.5-0.7-1.5-0.7-2.9v-1.5c0-0.7-0.1-1.3-0.3-1.6S189.3,64.2,188.8,64.2z
+				 M187.7,57.7v6.2h0.6c0.8,0,1.3-0.2,1.7-0.7s0.5-1.2,0.5-2.3v-0.6c0-1.1-0.2-1.8-0.5-2.1c-0.4-0.3-0.9-0.5-1.7-0.5H187.7z"/>
+			<path d="M197,57.3h6.1v0.4H202v13.2h1.1v0.4H197v-0.4h1.1V57.7H197V57.3z"/>
+			<path d="M215.4,57.7v13.6h-2.8l-6.9-12.9v12.6h1.1v0.4h-2.7v-0.4h1.1V57.7h-1.1v-0.4h5.5l5.2,10v-9.7h-1.1v-0.4h2.7v0.4H215.4z"
+				/>
+			<path d="M225.1,70.9l-1.5-4.3h-4l-1.5,4.3h1.5v0.4h-3.1v-0.4h0.9l5.1-13.7h1.6l5,13.7h0.9v0.4h-6.5v-0.4H225.1z M221.7,60.9
+				l-1.9,5.2h3.6L221.7,60.9z"/>
+			<path d="M241,57.3l0.2,5h-0.4c-0.6-1.8-1.1-3-1.6-3.6c-0.5-0.6-1.1-1-2-1h-0.2v13.2h1.7v0.4h-7.3v-0.4h1.7V57.7h-0.3
+				c-0.9,0-1.5,0.3-2,1c-0.5,0.7-1,1.9-1.5,3.6H229l0.2-5H241z"/>
+			<path d="M248.5,70.9l-1.5-4.3h-4l-1.5,4.3h1.5v0.4H240v-0.4h0.9l5.1-13.7h1.6l5,13.7h0.9v0.4h-6.5v-0.4H248.5z M245.1,60.9
+				l-1.9,5.2h3.6L245.1,60.9z"/>
+		</g>
 	</g>
 </g>
 </svg>
