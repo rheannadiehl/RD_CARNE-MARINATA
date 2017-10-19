@@ -1,0 +1,271 @@
+/* BODY */
+body {
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.75rem;
+	color: #000000;
+}
+
+/* HEADER */
+header {
+	padding: 1rem 5%;
+	width: 90%;
+	height: 4rem;
+	background-color: #99201a;
+	position: relative;
+}
+
+header img {
+	width: 30%;
+	display: block;
+}
+
+
+header nav {
+  line-height: 3rem;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+  right: 5%;
+  top: 2rem;
+}
+
+header nav .fa-bars {
+	display: inline-block;
+	font-weight: 500;
+	font-size: 1.5rem;
+	margin: 0;
+	padding: 0;
+	float: right;
+	color: #000000;
+}
+
+header nav .fa-bars:hover {
+    color: #acacac;
+}
+  
+
+header nav {
+    width: 50%;
+    float: right;
+    text-align: right; 
+}  
+
+/* MAIN */
+
+main {
+  overflow: hidden;
+  background: url(../img/asanoha-400px.png)
+}
+
+
+main .wrapper {
+  width: 90%;
+  max-width: 67.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+main h1 {
+	font-family: 'Abril Fatface', serif;
+	font-weight: 500;
+	font-size: 3rem;
+	margin: 7rem 0 1rem 2rem;
+	line-height: 1;
+
+
+}
+
+main h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 1.5rem;
+	color: #99201a;
+	line-height: 1.5rem;
+	margin-left: 2rem;
+}
+
+main h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: .75rem;
+	color: #acacac;
+	margin-left: 2rem;
+}
+
+main p {
+	margin-left: 2rem;
+	padding-right: 2rem;
+}
+
+
+.arrow-nav {
+	list-style-type: none;
+	color: #99201a;
+	padding-top: 1rem;
+	font-size: 1rem;
+	overflow: hidden;
+}
+
+.arrow-nav li {
+	list-style-type: none;
+}
+
+.arrow-nav li a {
+	text-decoration: none;
+	color: #99201a;
+}
+
+.arrow-right {
+	text-align: right;
+}
+
+.col-main {
+	padding-left: 1rem;
+}
+
+.col:last-child{
+		text-align: right;
+}
+
+.fa-chevron-left , .fa-chevron-right {
+	font-size: 3rem;
+	color: #acacac;
+	display: inline-block;
+	padding: .5rem;
+}
+
+.fa-chevron-right {
+	padding-right: 2rem;
+}
+
+.col-side {
+	list-style-type: none;
+	display: block;
+	overflow: hidden;
+	margin-top: 3%;
+
+}
+
+.col-middle {
+	margin-right: 5%;
+}
+
+.pictures img {
+	width: 100%;
+	border-radius: 2%;
+	border-style: solid;
+	border-color: #99201a;
+	border-width: 3px;
+}
+
+.col-middle ol {
+	padding-bottom: 1.5rem;
+}
+
+.pictures {
+	overflow: hidden;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.tips {
+	overflow: hidden;
+	clear: both;
+	background-color: #dbdbdb;
+	width: 100%;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+	@media screen and (min-width: 47.5em){
+	.col{
+		float: left;
+		width: 30%;
+	}
+
+	.col-main {
+		width: 20%;
+		float: left;
+		margin-right: 5%;
+	}
+
+	.col-middle {
+		width: 40%; 
+		float: left;
+	}
+
+	.col-side {
+		width: 25%;
+	}
+
+	.arrow-nav li{
+		float: left;
+		width: 50%;
+	}
+
+	.pictures li {
+		width: 90%;
+		float: left;
+		margin-right: 5px;
+		margin-top: 3%;
+		padding-bottom: 2rem;
+	}
+
+	
+}
+
+
+/*FOOTER*/
+footer {
+	padding: 1rem;
+    overflow: hidden;
+    font-weight: 300;
+    color: #000000; 
+    background-color: #99201a;
+}
+
+footer .wrapper {
+	overflow: hidden;
+}
+
+footer .copyright {
+    text-align: left;
+    padding-left: 1rem;
+    color: #acacac;
+}
+
+footer .social-media {
+	margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+footer .social-media li {
+	display: inline-block;
+}
+
+footer .social-media .fa {
+	font-weight: 500;
+    font-size: 2rem;
+    margin: 0;
+    padding: 1rem;
+    color: #000000;
+}
+
+@media screen and (min-width: 47.5em){
+
+	footer .copyright {
+        width: 33.3333%;
+        float: left;
+    }
+
+    footer .social-media {
+        width: 33.3333%;
+        float: right;
+        text-align: right;
+        list-style-type: none;
+	}
+}

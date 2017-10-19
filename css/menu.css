@@ -1,0 +1,334 @@
+
+ body, html {
+	height: 100%;
+}
+
+body {
+	font-family:'Open Sans', sans-serif;
+	line-height: 1.5rem;
+	color: #000000;
+	background: url(../img/asanoha-400px.png) 
+}
+
+
+
+header {
+	padding: 0rem 3%;
+	width: 100%;
+	height: 5rem;
+	background-color: #99201a;
+	position: relative;
+	
+}
+
+header h1 {
+	float: left;
+	width: 38%;
+	line-height: 100%;
+	position: relative;
+	top: -15%;
+}
+
+
+header nav {
+  line-height: 3rem;
+  text-decoration: none;
+  position: relative;
+  top: 30%;
+}
+
+header nav .fa-bars {
+	display: inline-block;
+	font-weight: 500;
+	font-size: 1.5rem;
+	margin: 0;
+	padding: 0;
+	float: right;
+	color: #000000;
+}
+
+header nav .fa-bars:hover {
+    color: #acacac;
+}
+  
+
+header nav a {
+    width: 100%;
+    float: right;
+    text-align: right; 
+}  
+
+	@media screen and (min-width:47.5rem){
+		header {
+			position: fixed;
+			width: 100%;
+			top: 0;
+			left: 0;
+			z-index: 9999998;
+		}
+
+		header nav {
+			position: fixed;
+			top: 4%;
+			left: 95%;
+ 
+		}
+}
+
+main .wrapper {
+	width: 90%;
+	overflow: hidden;
+	margin: 2% auto;
+	padding-top: 7%;
+	padding-bottom: 10%;
+
+}
+
+main li img {
+	width: 100%;
+	margin-top: 2%;
+	border-radius: 2%;
+	
+}
+
+.links {
+	list-style-type: none;
+	padding-top: 3%;
+}
+
+.links li {
+ 	counter-increment: step-counter;
+ 	padding-bottom: 8rem;
+}
+
+.links li:before {
+ 	content: counter(step-counter);
+ 	font-size: 9rem;
+ 	font-family: "Abril Fatface", serif;
+ 	color: #99201a;
+ 	
+}
+
+.links ol {
+	font-size: 2rem;
+	font-family: "Abril Fatface", serif;
+	color: #99201a;
+}
+
+.links li a {
+	text-decoration: none;
+}
+
+.links h3 {
+	width: 50%;
+	text-decoration: none;
+	padding: 1rem;
+	font-family: 'Abril Fatface', serif;
+	font-weight: 700;
+	font-size: 1.5rem;
+	color: #000000;
+	list-style-type: none;
+}
+
+.links p {
+	font-size: 1rem;
+	font-family: "Open Sans", sans-serif;
+	padding: 1rem;
+	color: #99201a;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.links .first p {
+	margin-bottom: 2%;
+	width: 72.1%;
+	position: absolute;
+	top: 72%;
+}
+
+.links .second p {
+	width: 72.1%;
+	position: absolute;
+	top: 144%;
+}
+
+.links .third p {
+	width: 72.1%;
+	position: absolute;
+	top: 217%;
+
+}
+
+
+@media screen and (min-width: 47.5em){
+
+	.links .first h3 {
+		position: absolute;
+		top: 20%;
+		left: 14%;
+	}	
+
+	.links .first p {
+		width: 40%;
+		position: absolute;
+		top: 27%;
+		left: 14%;
+	}
+
+	.links .second h3 {
+		position: absolute;
+		top: 43%;
+		left: 14%
+	}
+
+	.links .second p {
+		width: 40%;
+		position: absolute;
+		top: 50%;
+		left: 14%;
+	}
+
+	.links .third h3 {
+		position: absolute;
+		top: 66%;
+		left: 14%
+	}
+
+	.links .third p {
+		width: 40%;
+		position: absolute;
+		top: 73%;
+		left: 14%
+	}
+
+	main li img {
+		width: 17%;
+		opacity: 0.8;
+	}
+
+	main .first img {
+		position: absolute;
+		top: 8.5%;
+		left: 65%;
+		border-style: solid;
+		border-color: #99201a;
+		border-width: 3px;
+	}
+
+	main .second img {
+		position: absolute;
+		top: 34.5%;
+		left: 65%;
+		border-style: solid;
+		border-color: #99201a;
+		border-width: 3px;
+
+	}
+
+	main .third img {
+		position: absolute;
+		top: 60.5%;
+		left: 65%;
+		border-style: solid;
+		border-color: #99201a;
+		border-width: 3px;
+
+	}
+
+	main img:hover {
+		opacity: 1.0;
+	}
+
+	main li h3 {
+		width: 20%;
+		
+	}
+
+	main li p {
+		width: 45%;
+		
+	}
+
+	ol .first:before  {
+	position: absolute;
+	top: 27%;
+	}
+
+	ol .second:before {
+	position: absolute;
+	top: 50%;
+	}
+
+	ol .third:before {
+	position: absolute;
+	top: 73%;
+
+
+	}
+}
+
+footer {
+    overflow: hidden;
+    font-weight: 300;
+    color: #000000; 
+    background-color: #99201a;
+    width: 100%;
+}
+
+footer .wrapper {
+	width: 90%;
+	overflow: hidden;
+	margin: 2% auto;
+}
+
+footer .copyright {
+    color: #acacac;
+}
+
+footer .social-media {
+	margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+footer .social-media li {
+	display: inline-block;
+}
+
+footer .social-media .fa {
+	font-weight: 500;
+    font-size: 2rem;
+    margin: 0;
+    padding: 1rem;
+    color: #000000;
+}
+
+@media screen and (min-width: 47.5em){
+
+	footer {
+		height: 4.15rem;
+		z-index: 999998;
+		position: fixed;
+		width: 100%;
+		left: 0;
+		bottom: 0;
+	}
+
+	footer .copyright {
+        width: 33.3333%;
+        float: left;
+        position: fixed;
+        bottom: 1%;
+    }
+
+    footer .social-media {
+        width: 33.3333%;
+        float: right;
+        text-align: right;
+        list-style-type: none;
+        position: fixed;
+        bottom: .5%;
+        right: 4%;
+	}
+}
